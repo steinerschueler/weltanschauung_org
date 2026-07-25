@@ -1,7 +1,11 @@
 # weltanschauung.org
 
 Die Website **weltanschauung.org** als statische Seite, ausgeliefert über
-GitHub Pages.
+GitHub Pages: <https://steinerschueler.github.io/weltanschauung_org/>
+
+Unter der eigenen Domain läuft vorerst noch das WordPress auf dem
+Namecheap-cPanel. Die Umstellung folgt, sobald der Registrar-Transfer zu
+Infomaniak abgeschlossen ist.
 
 ## Woher der Inhalt stammt
 
