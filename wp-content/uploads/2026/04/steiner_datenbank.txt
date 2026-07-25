@@ -1,0 +1,3839 @@
+@book{steiner_ga1,
+  title = {Einleitungen zu Goethes Naturwissenschaftlichen Schriften (1884 - 1897)},
+  shorttitle = {GA 1},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {1},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga1a-e,
+  title = {Goethes Naturwissenschaftliche Schriften},
+  shorttitle = {GA 1a-e},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {1a-e},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga1f,
+  title = {Editorische Nachworte zu Goethes naturwissenschaftlichen Schriften in der Weimarer Ausgabe (1891–1896)},
+  shorttitle = {GA 1f},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {1f},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga2,
+  title = {Grundlinien einer Erkenntnistheorie der Goetheschen Weltanschauung mit besonderer Rücksicht auf Schiller (1886)},
+  shorttitle = {GA 2},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {2},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga3,
+  title = {Wahrheit und Wissenschaft. Vorspiel zu einer «Philosophie der Freiheit» (1892)},
+  shorttitle = {GA 3},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {3},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga4,
+  title = {Die Philosophie der Freiheit. Grundzüge einer modernen Weltanschauung (1893)},
+  shorttitle = {GA 4},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {4},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga4a,
+  title = {Dokumente zur «Philosophie der Freiheit»},
+  shorttitle = {GA 4a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {4a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga5,
+  title = {Friedrich Nietzsche, ein Kämpfer gegen seine Zeit},
+  shorttitle = {GA 5},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {5},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga6,
+  title = {Goethes Weltanschauung},
+  shorttitle = {GA 6},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {6},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga7,
+  title = {Die Mystik im Aufgange des neuzeitlichen Geisteslebens und ihr Verhältnis zur modernen Weltanschauung},
+  shorttitle = {GA 7},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {7},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga8,
+  title = {Das Christentum als mystische Tatsache und die Mysterien des Altertums},
+  shorttitle = {GA 8},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {8},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga9,
+  title = {Theosophie},
+  shorttitle = {GA 9},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {9},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga10,
+  title = {Wie erlangt man Erkenntnisse der höheren Welten?},
+  shorttitle = {GA 10},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {10},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga11,
+  title = {Aus der Akasha-Chronik},
+  shorttitle = {GA 11},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {11},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga12,
+  title = {Die Stufen der höheren Erkenntnis},
+  shorttitle = {GA 12},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {12},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga13,
+  title = {Die Geheimwissenschaft im Umriß.},
+  shorttitle = {GA 13},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {13},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga14,
+  title = {Vier Mysteriendramen},
+  shorttitle = {GA 14},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {14},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga15,
+  title = {Die geistige Führung des Menschen und der Menschheit},
+  shorttitle = {GA 15},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {15},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga16,
+  title = {Ein Weg zur Selbsterkenntnis des Menschen. In acht Meditationen},
+  shorttitle = {GA 16},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {16},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga17,
+  title = {Die Schwelle der geistigen Welt. Aphoristische Ausführungen},
+  shorttitle = {GA 17},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {17},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga18,
+  title = {Die Rätsel der Philosophie in ihrer Geschichte als Umriss dargestellt},
+  shorttitle = {GA 18},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {18},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga18a,
+  title = {Welt- und Lebensanschauungen im neunzehnten Jahrhundert},
+  shorttitle = {GA 18a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {18a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga19,
+  title = {Gedanken während der Zeit des Krieges (1915) und weitere Texte zum Weltgeschehen (1917–1921)},
+  shorttitle = {GA 19},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {19},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga20,
+  title = {Vom Menschenrätsel},
+  shorttitle = {GA 20},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {20},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga21,
+  title = {Von Seelenrätseln},
+  shorttitle = {GA 21},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {21},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga22,
+  title = {Goethes Geistesart in ihrer Offenbarung durch seinen «Faust» und durch das Märchen von der Schlange und der Lilie},
+  shorttitle = {GA 22},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {22},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga23,
+  title = {Die Kernpunkte der sozialen Frage},
+  shorttitle = {GA 23},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {23},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga24,
+  title = {Über die Dreigliederung des sozialen Organismus und zur Zeitlage 1915 - 1921},
+  shorttitle = {GA 24},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {24},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga25,
+  title = {Drei Schritte der Anthroposophie. Kosmologie, Religion und Philosophie.},
+  shorttitle = {GA 25},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {25},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga26,
+  title = {Anthroposophische Leitsätze},
+  shorttitle = {GA 26},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {26},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga27,
+  title = {Grundlegendes für eine Erweiterung der Heilkunst nach geisteswissenschaftlichen Erkenntnissen},
+  shorttitle = {GA 27},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {27},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga28,
+  title = {Mein Lebensgang},
+  shorttitle = {GA 28},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {28},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga29,
+  title = {Gesammelte Aufsätze zur Dramaturgie 1889 – 1900},
+  shorttitle = {GA 29},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {29},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga30,
+  title = {Methodische Grundlagen der Anthroposophie 1884 - 1901},
+  shorttitle = {GA 30},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {30},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga31,
+  title = {Gesammelte Aufsätze zur Kultur- und Zeitgeschichte 1887 bis 1901.},
+  shorttitle = {GA 31},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {31},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga32,
+  title = {Gesammelte Aufsätze zur Literatur 1884 - 1902},
+  shorttitle = {GA 32},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {32},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga33,
+  title = {Biographien und biographische Skizzen 1894 - 1905. Schopenhauer - Jean Paul - Uhland - Wieland.},
+  shorttitle = {GA 33},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {33},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga34,
+  title = {Luzifer-Gnosis 1903-1908.},
+  shorttitle = {GA 34},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {34},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga35,
+  title = {Philosophie und Anthroposophie. Gesammelte Aufsätze 1904 - 1918.},
+  shorttitle = {GA 35},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {35},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga36,
+  title = {Der Goetheanumgedanke inmitten der Kulturkrisis der Gegenwart.},
+  shorttitle = {GA 36},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {36},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga37,
+  title = {Das lebendige Wesen der Anthroposophie.},
+  shorttitle = {GA 37},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {37},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga38,
+  title = {Briefe, Bd. 1, 1881 - 1890},
+  shorttitle = {GA 38},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {38},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga39,
+  title = {Briefe, Bd. 2, 1890 - 1925},
+  shorttitle = {GA 39},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {39},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga40,
+  title = {Wahrspruchworte},
+  shorttitle = {GA 40},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {40},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga40a,
+  title = {Sprüche, Dichtungen, Mantren. Ergänzungsband},
+  shorttitle = {GA 40a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {40a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga41a,
+  title = {Übersetzungen und freie Übertragungen aus dem Alten und Neuen Testament},
+  shorttitle = {GA 41a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {41a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga41b,
+  title = {Übersetzungen und freie Übertragungen verschiedener Werke},
+  shorttitle = {GA 41b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {41b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga42,
+  title = {Bühnenberarbeitungen I: Dramen Edouard Schurés},
+  shorttitle = {GA 42},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {42},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga43,
+  title = {Bühnenbearbeitungen II: Die Oberuferer Weihnachtspiele},
+  shorttitle = {GA 43},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {43},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga44,
+  title = {Entwürfe, Fragmente und Paralipomena zu den vier Mysteriendramen},
+  shorttitle = {GA 44},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {44},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga45,
+  title = {Anthroposophie. Ein Fragment aus dem Jahre 1910},
+  shorttitle = {GA 45},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {45},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga46,
+  title = {Nachgelassene Abhandlungen und Fragmente 1879 – 1924},
+  shorttitle = {GA 46},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {46},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga49,
+  title = {Zu Helmuth und Eliza von Moltke - Aufzeichnungen, Briefe, Dokumente, Notizen 1903 – 1924},
+  shorttitle = {GA 49},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {49},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga51,
+  title = {Über Philosophie, Geschichte und Literatur.},
+  shorttitle = {GA 51},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {51},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga52,
+  title = {Spirituelle Seelenlehre und Weltbetrachtung.},
+  shorttitle = {GA 52},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {52},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga53,
+  title = {Ursprung und Ziel des Menschen. Grundbegriffe der Geisteswissenschaft.},
+  shorttitle = {GA 53},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {53},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga54,
+  title = {Die Welträtsel und die Anthroposophie.},
+  shorttitle = {GA 54},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {54},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga55,
+  title = {Die Erkenntnis des Übersinnlichen in unserer Zeit und deren Bedeutung für das heutige Leben.},
+  shorttitle = {GA 55},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {55},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga56,
+  title = {Die Erkenntnis der Seele und des Geistes.},
+  shorttitle = {GA 56},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {56},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga57,
+  title = {Wo und wie findet man den Geist?},
+  shorttitle = {GA 57},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {57},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga58,
+  title = {Pfade der Seelenerlebnisse, Acht öffentliche Vorträge, Berlin 1909 - 1910},
+  shorttitle = {GA 58},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {58},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga59,
+  title = {Metamorphosen des Seelenlebens, Sieben öffentliche Vorträge, Berlin 1910},
+  shorttitle = {GA 59},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {59},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga60,
+  title = {Antworten der Geisteswissenschaft auf die großen Fragen des Daseins},
+  shorttitle = {GA 60},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {60},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga61,
+  title = {Menschengeschichte im Lichte der Geistesforschung.},
+  shorttitle = {GA 61},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {61},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga62,
+  title = {Ergebnisse der Geistesforschung},
+  shorttitle = {GA 62},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {62},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga63,
+  title = {Geisteswissenschaft als Lebensgut},
+  shorttitle = {GA 63},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {63},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga64,
+  title = {Aus schicksaltragender Zeit},
+  shorttitle = {GA 64},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {64},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga65,
+  title = {Aus dem mitteleuropäischen Geistesleben},
+  shorttitle = {GA 65},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {65},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga66,
+  title = {Geist und Stoff, Leben und Tod},
+  shorttitle = {GA 66},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {66},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga67,
+  title = {Das Ewige in der Menschenseele},
+  shorttitle = {GA 67},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {67},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga68a,
+  title = {Über das Wesen des Christentums},
+  shorttitle = {GA 68a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {68a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga68b,
+  title = {Der Kreislauf des Menschen innerhalb der Sinnes-, Seelen- und Geisteswelt},
+  shorttitle = {GA 68b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {68b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga68c,
+  title = {Goethe und die Gegenwart},
+  shorttitle = {GA 68c},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {68c},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga68d,
+  title = {Das Wesen des Menschen im Lichte der Geisteswissenschaft},
+  shorttitle = {GA 68d},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {68d},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga69a,
+  title = {Wahrheiten und Irrtümer der Geistesforschung. Geisteswissenschaft und Menschenzukunft},
+  shorttitle = {GA 69a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {69a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga69b,
+  title = {Erkenntnis und Unsterblichkeit},
+  shorttitle = {GA 69b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {69b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga69c,
+  title = {Neues Christus-Erleben},
+  shorttitle = {GA 69c},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {69c},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga69d,
+  title = {Tod und Unsterblichkeit im Lichte der Geisteswissenschaft},
+  shorttitle = {GA 69d},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {69d},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga69e,
+  title = {Geisteswissenschaft und die geistigen Ziele unserer Zeit},
+  shorttitle = {GA 69e},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {69e},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga70a,
+  title = {Menschenseele, Schicksal und Tod},
+  shorttitle = {GA 70a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {70a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga71b,
+  title = {Der Mensch als Geist- und Seelenwesen},
+  shorttitle = {GA 71b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {71b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga72,
+  title = {Freiheit, Unsterblichkeit, Soziales Leben},
+  shorttitle = {GA 72},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {72},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga73,
+  title = {Die Ergänzung heutiger Wissenschaften durch Anthroposophie},
+  shorttitle = {GA 73},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {73},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga73a,
+  title = {Fachwissenschaften und Anthroposophie},
+  shorttitle = {GA 73a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {73a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga74,
+  title = {Die Philosophie des Thomas von Aquino.},
+  shorttitle = {GA 74},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {74},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga75,
+  title = {Das Verhältnis der Anthroposophie zur Naturwissenschaft. Grundlagen und Methoden},
+  shorttitle = {GA 75},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {75},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga76,
+  title = {Die befruchtende Wirkung der Anthroposophie auf die Fachwissenschaften},
+  shorttitle = {GA 76},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {76},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga77a,
+  title = {Die Aufgaben der Anthroposophie gegenüber Wissenschaft und Leben},
+  shorttitle = {GA 77a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {77a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga77b,
+  title = {Kunst und Anthroposophie},
+  shorttitle = {GA 77b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {77b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga78,
+  title = {Anthroposophie, ihre Erkenntniswurzeln und Lebensfrüchte},
+  shorttitle = {GA 78},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {78},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga79,
+  title = {Die Wirklichkeit der höheren Welten},
+  shorttitle = {GA 79},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {79},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga80a,
+  title = {Das Wesen der Anthroposophie},
+  shorttitle = {GA 80a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {80a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga80b,
+  title = {Das Innere der Natur und das Wesen der Menschenseele},
+  shorttitle = {GA 80b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {80b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga80c,
+  title = {Die anthroposophische Geisteswissenschaft und die grossen Zivilisationsfragen der Gegenwart},
+  shorttitle = {GA 80c},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {80c},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga81,
+  title = {Erneuerungs-Impulse für Kultur und Wissenschaft. Berliner Hochschulkurs.},
+  shorttitle = {GA 81},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {81},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga82,
+  title = {Damit der Mensch ganz Mensch werde},
+  shorttitle = {GA 82},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {82},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga83,
+  title = {Westliche und östliche Weltgegensätzlichkeit. Wege zu ihrer Verständigung durch Anthroposophie.},
+  shorttitle = {GA 83},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {83},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga84,
+  title = {Was wollte das Goetheanum und was soll die Anthroposophie?},
+  shorttitle = {GA 84},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {84},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga87,
+  title = {Antike Mysterien und Christentum},
+  shorttitle = {GA 87},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {87},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga88,
+  title = {Über die astrale Welt und das Devachan. Hörernotizen von internen Vorträgen, Berlin 1903 - 1904.},
+  shorttitle = {GA 88},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {88},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga89,
+  title = {Bewußtsein – Leben – Form},
+  shorttitle = {GA 89},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {89},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga90a,
+  title = {Selbsterkenntnis und Gotteserkenntnis I},
+  shorttitle = {GA 90a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {90a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga90b,
+  title = {Selbsterkenntnis und Gotteserkenntnis II},
+  shorttitle = {GA 90b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {90b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga90c,
+  title = {Theosophie und Okkultismus},
+  shorttitle = {GA 90c},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {90c},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga91,
+  title = {Kosmologie und menschliche Evolution. Einführung in die Theosophie – Farbenlehre},
+  shorttitle = {GA 91},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {91},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga92,
+  title = {Die okkulten Wahrheiten alter Mythen und Sagen.},
+  shorttitle = {GA 92},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {92},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga93,
+  title = {Die Tempellegende und die Goldene Legende als symbolischer Ausdruck vergangener und zukünftiger Entwickelungsgeheimnisse des Menschen.},
+  shorttitle = {GA 93},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {93},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga93a,
+  title = {Grundelemente der Esoterik.},
+  shorttitle = {GA 93a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {93a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga94,
+  title = {Kosmogonie.},
+  shorttitle = {GA 94},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {94},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga95,
+  title = {Vor dem Tore der Theosophie.},
+  shorttitle = {GA 95},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {95},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga96,
+  title = {Ursprungsimpulse der Geisteswissenschaft. Christliche Esoterik im Lichte neuer Geist-Erkenntnis.},
+  shorttitle = {GA 96},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {96},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga97,
+  title = {Das christliche Mysterium.},
+  shorttitle = {GA 97},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {97},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga98,
+  title = {Natur- und Geistwesen, ihr Wirken in unserer sichtbaren Welt.},
+  shorttitle = {GA 98},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {98},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga99,
+  title = {Die Theosophie des Rosenkreuzers.},
+  shorttitle = {GA 99},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {99},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga100,
+  title = {Menschheitsentwickelung und Christus-Erkenntnis.},
+  shorttitle = {GA 100},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {100},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga101,
+  title = {Mythen und Sagen. Okkulte Zeichen und Symbole.},
+  shorttitle = {GA 101},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {101},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga102,
+  title = {Das Hereinwirken geistiger Wesenheiten in den Menschen.},
+  shorttitle = {GA 102},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {102},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga103,
+  title = {Das Johannes-Evangelium.},
+  shorttitle = {GA 103},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {103},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga104,
+  title = {Die Apokalypse des Johannes.},
+  shorttitle = {GA 104},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {104},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga104a,
+  title = {Aus der Bilderschrift der Apokalypse des Johannes},
+  shorttitle = {GA 104a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {104a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga105,
+  title = {Welt, Erde und Mensch, deren Wesen und Entwickelung.},
+  shorttitle = {GA 105},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {105},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga106,
+  title = {Ägyptische Mythen und Mysterien.},
+  shorttitle = {GA 106},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {106},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga107,
+  title = {Geisteswissenschaftliche Menschenkunde.},
+  shorttitle = {GA 107},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {107},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga108,
+  title = {Die Beantwortung von Welt- und Lebensfragen durch Anthroposophie.},
+  shorttitle = {GA 108},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {108},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga109,
+  title = {Das Prinzip der spirituellen Ökonomie im Zusammenhang mit Wiederverkörperungsfragen. Ein Aspekt der geistigen Führung der Menschheit.},
+  shorttitle = {GA 109},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {109},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga110,
+  title = {Geistige Hierarchien und ihre Wiederspiegelung in der physischen Welt. Tierkreis, Planeten, Kosmos.},
+  shorttitle = {GA 110},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {110},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga111,
+  title = {Einführung in die Grundlagen der Theosophie.},
+  shorttitle = {GA 111},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {111},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga112,
+  title = {Das Johannes-Evangelium im Verhältnis zu den drei anderen Evangelien besonders zu dem Lukas-Evangelium.},
+  shorttitle = {GA 112},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {112},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga113,
+  title = {Der Orient im Lichte des Okzidents. Die Kinder des Luzifer und die Brüder Christi.},
+  shorttitle = {GA 113},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {113},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga114,
+  title = {Das Lukas-Evangelium.},
+  shorttitle = {GA 114},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {114},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga115,
+  title = {Anthroposophie, Psychosophie, Pneumatosophie.},
+  shorttitle = {GA 115},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {115},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga116,
+  title = {Der Christus-Impuls und die Entwicklung des Ich-Bewußtseins.},
+  shorttitle = {GA 116},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {116},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga117,
+  title = {Die tieferen Geheimnisse des Menschheitswerdens im Lichte der Evangelien.},
+  shorttitle = {GA 117},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {117},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga118,
+  title = {Das Ereignis der Christus-Erscheinung in der ätherischen Welt.},
+  shorttitle = {GA 118},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {118},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga119,
+  title = {Makrokosmos und Mikrokosmos.},
+  shorttitle = {GA 119},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {119},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga120,
+  title = {Die Offenbarungen des Karma.},
+  shorttitle = {GA 120},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {120},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga121,
+  title = {Die Mission einzelner Volksseelen im Zusammenhange mit der germanisch-nordischen Mythologie.},
+  shorttitle = {GA 121},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {121},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga122,
+  title = {Die Geheimnisse der biblischen Schöpfungsgeschichte. Das Sechstagewerk im 1. Buch Moses.},
+  shorttitle = {GA 122},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {122},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga123,
+  title = {Das Matthäus-Evangelium.},
+  shorttitle = {GA 123},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {123},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga124,
+  title = {Exkurse in das Gebiet des Markus-Evangeliums.},
+  shorttitle = {GA 124},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {124},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga125,
+  title = {Wege und Ziele des geistigen Menschen},
+  shorttitle = {GA 125},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {125},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga126,
+  title = {Okkulte Geschichte.},
+  shorttitle = {GA 126},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {126},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga127,
+  title = {Die Mission der neuen Geistesoffenbarung.},
+  shorttitle = {GA 127},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {127},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga128,
+  title = {Eine okkulte Physiologie.},
+  shorttitle = {GA 128},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {128},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga129,
+  title = {Weltenwunder, Seelenprüfungen und Geistesoffenbarungen.},
+  shorttitle = {GA 129},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {129},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga130,
+  title = {Das esoterische Christentum und die geistige Führung der Menschheit.},
+  shorttitle = {GA 130},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {130},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga131,
+  title = {Von Jesus zu Christus.},
+  shorttitle = {GA 131},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {131},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga132,
+  title = {Die Evolution vom Gesichtspunkte des Wahrhaftigen.},
+  shorttitle = {GA 132},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {132},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga133,
+  title = {Der irdische und der kosmische Mensch.},
+  shorttitle = {GA 133},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {133},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga134,
+  title = {Die Welt der Sinne und die Welt des Geistes.},
+  shorttitle = {GA 134},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {134},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga135,
+  title = {Wiederverkörperung und Karma und ihre Bedeutung für die Kultur der Gegenwart.},
+  shorttitle = {GA 135},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {135},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga136,
+  title = {Die geistigen Wesenheiten in den Himmelskörpern und Naturreichen.},
+  shorttitle = {GA 136},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {136},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga137,
+  title = {Der Mensch im Lichte von Okkultismus, Theosophie und Philosophie.},
+  shorttitle = {GA 137},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {137},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga138,
+  title = {Von der Initiation. Von Ewigkeit und Augenblick. Von Geisteslicht und Lebensdunkel.},
+  shorttitle = {GA 138},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {138},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga139,
+  title = {Das Markus-Evangelium.},
+  shorttitle = {GA 139},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {139},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga140,
+  title = {Okkulte Untersuchungen über das Leben zwischen Tod und neuer Geburt. Die lebendige Wechselwirkung zwischen Lebenden und Toten.},
+  shorttitle = {GA 140},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {140},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga141,
+  title = {Das Leben zwischen dem Tode und der neuen Geburt im Verhältnis zu den kosmischen Tatsachen.},
+  shorttitle = {GA 141},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {141},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga142,
+  title = {Die Bhagavad Gita und die Paulusbriefe},
+  shorttitle = {GA 142},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {142},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga143,
+  title = {Erfahrungen des Übersinnlichen. Die Wege der Seele zu Christus.},
+  shorttitle = {GA 143},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {143},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga144,
+  title = {Die Mysterien des Morgenlandes und des Christentums.},
+  shorttitle = {GA 144},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {144},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga145,
+  title = {Welche Bedeutung hat die okkulte Entwicklung des Menschen für seine Hüllen (physischen Leib, Ätherleib, Astralleib) und sein Selbst?},
+  shorttitle = {GA 145},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {145},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga146,
+  title = {Die okkulten Grundlagen der Bhagavad Gita.},
+  shorttitle = {GA 146},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {146},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga147,
+  title = {Die Geheimnisse der Schwelle.},
+  shorttitle = {GA 147},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {147},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga148,
+  title = {Aus der Akasha-Forschung. Das Fünfte Evangelium.},
+  shorttitle = {GA 148},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {148},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga149,
+  title = {Christus und die geistige Welt. Von der Suche nach dem heiligen Gral.},
+  shorttitle = {GA 149},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {149},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga150,
+  title = {Die Welt des Geistes und ihr Hereintragen in das physische Dasein. Das Einwirken der Toten in die Welt der Lebenden.},
+  shorttitle = {GA 150},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {150},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga151,
+  title = {Der menschliche und der kosmische Gedanke.},
+  shorttitle = {GA 151},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {151},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga152,
+  title = {Vorstufen zum Mysterium von Golgatha.},
+  shorttitle = {GA 152},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {152},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga153,
+  title = {Inneres Wesen des Menschen und Leben zwischen Tod und neuer Geburt.},
+  shorttitle = {GA 153},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {153},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga154,
+  title = {Wie erwirbt man sich Verständnis für die geistige Welt?},
+  shorttitle = {GA 154},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {154},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga155,
+  title = {Christus und die menschliche Seele.},
+  shorttitle = {GA 155},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {155},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga156,
+  title = {Okkultes Lesen und okkultes Hören.},
+  shorttitle = {GA 156},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {156},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga157,
+  title = {Menschenschicksale und Völkerschicksale.},
+  shorttitle = {GA 157},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {157},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga157a,
+  title = {Schicksalsbildung und Leben nach dem Tode.},
+  shorttitle = {GA 157a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {157a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga158,
+  title = {Der Zusammenhang des Menschen mit der elementarischen Welt.},
+  shorttitle = {GA 158},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {158},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga159,
+  title = {Das Geheimnis des Todes. Wesen und Bedeutung Mitteleuropas und die europäischen Volksgeister.},
+  shorttitle = {GA 159},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {159},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga161,
+  title = {Wege der geistigen Erkenntnis und der Erneuerung künstlerischer Weltanschauung.},
+  shorttitle = {GA 161},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {161},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga162,
+  title = {Kunstfragen und Lebensfragen im Lichte der Geisteswissenschaft.},
+  shorttitle = {GA 162},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {162},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga163,
+  title = {Zufall, Notwendigkeit und Vorsehung. Imaginative Erkenntnis und Vorgänge nach dem Tode.},
+  shorttitle = {GA 163},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {163},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga164,
+  title = {Der Wert des Denkens für eine den Menschen befriedigende Erkenntnis.},
+  shorttitle = {GA 164},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {164},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga165,
+  title = {Die geistige Vereinigung der Menschheit durch den Christus-Impuls.},
+  shorttitle = {GA 165},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {165},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga166,
+  title = {Notwendigkeit und Freiheit im Weltengeschehen und im menschlichen Handeln.},
+  shorttitle = {GA 166},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {166},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga167,
+  title = {Gegenwärtiges und Vergangenes im Menschengeiste.},
+  shorttitle = {GA 167},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {167},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga168,
+  title = {Die Verbindung zwischen Lebenden und Toten.},
+  shorttitle = {GA 168},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {168},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga169,
+  title = {Weltwesen und Ichheit.},
+  shorttitle = {GA 169},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {169},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga170,
+  title = {Das Rätsel des Menschen, Die geistigen Hintergründe der menschlichen Geschichte.},
+  shorttitle = {GA 170},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {170},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga171,
+  title = {Innere Entwicklungsimpulse der Menschheit, Goethe und die Krisis des neunzehnten Jahrhunderts.},
+  shorttitle = {GA 171},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {171},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga172,
+  title = {Das Karma des Berufes des Menschen in Anknüpfung an Goethes Leben},
+  shorttitle = {GA 172},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {172},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga173,
+  title = {Zeitgeschichtliche Betrachtungen. Das Karma der Unwahrhaftigkeit – Erster Teil},
+  shorttitle = {GA 173},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {173},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga174,
+  title = {Zeitgeschichtliche Betrachtungen. Das Karma der Unwahrhaftigkeit – Zweiter Teil},
+  shorttitle = {GA 174},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {174},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga174a,
+  title = {Mitteleuropa zwischen Ost und West.},
+  shorttitle = {GA 174a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {174a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga174b,
+  title = {Die geistigen Hintergründe des Ersten Weltkrieges.},
+  shorttitle = {GA 174b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {174b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga175,
+  title = {Bausteine zu einer Erkenntnis des Mysteriums von Golgatha. Kosmische und menschliche Metamorphose.},
+  shorttitle = {GA 175},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {175},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga176,
+  title = {Menschliche und menschheitliche Entwicklungswahrheiten. Das Karma des Materialismus.},
+  shorttitle = {GA 176},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {176},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga177,
+  title = {Die spirituellen Hintergründe der äußeren Welt. Der Sturz der Geister der Finsternis.},
+  shorttitle = {GA 177},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {177},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga178,
+  title = {Individuelle Geistwesen und ihr Wirken in der Seele des Menschen.},
+  shorttitle = {GA 178},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {178},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga179,
+  title = {Geschichtliche Notwendigkeit und Freiheit. Schicksalseinwirkungen aus der Welt der Toten.},
+  shorttitle = {GA 179},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {179},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga180,
+  title = {Mysterienwahrheiten und Weihnachtsimpulse. Alte Mythen und ihre Bedeutung.},
+  shorttitle = {GA 180},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {180},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga181,
+  title = {Erdensterben und Weltenleben. Anthroposophische Lebensgaben. Bewußtseins-Notwendigkeiten für Gegenwart und Zukunft.},
+  shorttitle = {GA 181},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {181},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga182,
+  title = {Der Tod als Lebenswandlung.},
+  shorttitle = {GA 182},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {182},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga183,
+  title = {Die Wissenschaft vom Werden des Menschen.},
+  shorttitle = {GA 183},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {183},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga184,
+  title = {Die Polarität von Dauer und Entwickelung im Menschenleben. Die kosmische Vorgeschichte der Menschheit.},
+  shorttitle = {GA 184},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {184},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga185,
+  title = {Geschichtliche Symptomatologie.},
+  shorttitle = {GA 185},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {185},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga185a,
+  title = {Entwicklungsgeschichtliche Unterlagen zur Bildung eines sozialen Urteils.},
+  shorttitle = {GA 185a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {185a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga186,
+  title = {Die soziale Grundforderung unserer Zeit.},
+  shorttitle = {GA 186},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {186},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga187,
+  title = {Wie kann die Menschheit den Christus wiederfinden?},
+  shorttitle = {GA 187},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {187},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga188,
+  title = {Der Goetheanismus, ein Umwandlungsimpuls und Auferstehungsgedanke.},
+  shorttitle = {GA 188},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {188},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga189,
+  title = {Die soziale Frage als Bewußtseinsfrage.},
+  shorttitle = {GA 189},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {189},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga190,
+  title = {Die geistigen Hintergründe der sozialen Frage, in 3 Bdn., Bd. 2, Vergangenheitsimpulse und Zukunftsimpulse im sozialen Geschehen.},
+  shorttitle = {GA 190},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {190},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga191,
+  title = {Soziales Verständnis aus geisteswissenschaftlicher Erkenntnis.},
+  shorttitle = {GA 191},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {191},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga192,
+  title = {Geisteswissenschaftliche Behandlung sozialer und pädagogischer Fragen.},
+  shorttitle = {GA 192},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {192},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga193,
+  title = {Der innere Aspekt des sozialen Rätsels. Luziferische Vergangenheit und ahrimanische Zukunft.},
+  shorttitle = {GA 193},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {193},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga194,
+  title = {Die Sendung Michaels.},
+  shorttitle = {GA 194},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {194},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga195,
+  title = {Weltsilvester und Neujahrsgedanken.},
+  shorttitle = {GA 195},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {195},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga196,
+  title = {Geistige und soziale Wandlungen in Menschheitsentwickelung.},
+  shorttitle = {GA 196},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {196},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga197,
+  title = {Gegensätze in der Menschheitsentwickelung.},
+  shorttitle = {GA 197},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {197},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga198,
+  title = {Heilfaktoren für den sozialen Organismus.},
+  shorttitle = {GA 198},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {198},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga199,
+  title = {Geisteswissenschaft als Erkenntnis der Grundimpulse sozialer Gestaltung.},
+  shorttitle = {GA 199},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {199},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga200,
+  title = {Die neue Geistigkeit und das Christus-Erlebnis des zwanzigsten Jahrhunderts.},
+  shorttitle = {GA 200},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {200},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga201,
+  title = {Entsprechungen zwischen Mikrokosmos und Makrokosmos. Der Mensch, eine Hieroglyphe des Weltenalls.},
+  shorttitle = {GA 201},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {201},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga202,
+  title = {Die Brücke zwischen der Weltgeistigkeit und dem Physischen des Menschen. Die Suche nach der neuen Isis, der göttlichen Sophia.},
+  shorttitle = {GA 202},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {202},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga203,
+  title = {Die Verantwortung des Menschen für die Weltentwickelung durch seinen geistigen Zusammenhang mit dem Erdplaneten und der Sternenwelt.},
+  shorttitle = {GA 203},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {203},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga204,
+  title = {Perspektiven der Menschheitsentwickelung.},
+  shorttitle = {GA 204},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {204},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga205,
+  title = {Menschenwerden, Weltenseele und Weltengeist, 1. Teil. Der Mensch als leiblich-seelische Wesenheit in seinem Verhältnis zur Welt.},
+  shorttitle = {GA 205},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {205},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga206,
+  title = {Menschenwerden, Weltenseele und Weltengeist, 2. Teil. Der Mensch als geistiges Wesen im historischen Werdegang.},
+  shorttitle = {GA 206},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {206},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga207,
+  title = {Anthroposophie als Kosmosophie, 1. Teil. Wesenszüge des Menschen im irdischen und kosmischen Bereich.},
+  shorttitle = {GA 207},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {207},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga208,
+  title = {Anthroposophie als Kosmosophie, 2. Teil. Die Gestaltung des Menschen als Ergebnis kosmischer Wirkungen.},
+  shorttitle = {GA 208},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {208},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga209,
+  title = {Nordische und mitteleuropäische Geistimpulse. Das Fest der Erscheinung Christi.},
+  shorttitle = {GA 209},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {209},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga210,
+  title = {Alte und neue Einweihungsmethoden. Drama und Dichtung im Bewußtseins-Umschwung der Neuzeit.},
+  shorttitle = {GA 210},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {210},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga211,
+  title = {Das Sonnenmysterium und das Mysterium von Tod und Auferstehung.},
+  shorttitle = {GA 211},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {211},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga212,
+  title = {Menschliches Seelenleben und Geistesstreben. Im Zusammenhange mit Welt- und Erdentwicklung.},
+  shorttitle = {GA 212},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {212},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga213,
+  title = {Menschenfragen und Weltenantworten.},
+  shorttitle = {GA 213},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {213},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga214,
+  title = {Das Geheimnis der Trinität.},
+  shorttitle = {GA 214},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {214},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga215,
+  title = {Die Philosophie, Kosmologie und Religion in der Anthroposophie.},
+  shorttitle = {GA 215},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {215},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga216,
+  title = {Die Grundimpulse des weltgeschichtlichen Werdens der Menschheit.},
+  shorttitle = {GA 216},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {216},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga217,
+  title = {Geistige Wirkenskräfte im Zusammenleben von alter und junger Generation.},
+  shorttitle = {GA 217},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {217},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga217a,
+  title = {Die Erkenntnisaufgabe der Jugend.},
+  shorttitle = {GA 217a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {217a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga218,
+  title = {Geistige Zusammenhänge in der Gestaltung des menschlichen Organismus.},
+  shorttitle = {GA 218},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {218},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga219,
+  title = {Das Verhältnis der Sternenwelt zum Menschen und des Menschen zur Sternenwelt.},
+  shorttitle = {GA 219},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {219},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga220,
+  title = {Lebendiges Naturerkennen. Intellektueller Sündenfall und spirituelle Sündenerhebung.},
+  shorttitle = {GA 220},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {220},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga221,
+  title = {Erdenwissen und Himmelserkenntnis.},
+  shorttitle = {GA 221},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {221},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga222,
+  title = {Die Impulsierung des weltgeschichtlichen Geschehens durch geistige Mächte.},
+  shorttitle = {GA 222},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {222},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga223,
+  title = {Der Jahreskreislauf als Atmungsvorgang der Erde und die vier großen Festeszeiten. Die Anthroposophie und das menschliche Gemüt.},
+  shorttitle = {GA 223},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {223},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga224,
+  title = {Die menschliche Seele in ihrem Zusammenhang mit göttlich-geistigen Individualitäten. Die Verinnerlichung der Jahresfeste.},
+  shorttitle = {GA 224},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {224},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga225,
+  title = {Drei Perspektiven der Anthroposophie.},
+  shorttitle = {GA 225},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {225},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga226,
+  title = {Menschenwesen, Menschenschicksal und Welt-Entwickelung.},
+  shorttitle = {GA 226},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {226},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga227,
+  title = {Initiations-Erkenntnis},
+  shorttitle = {GA 227},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {227},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga228,
+  title = {Initiationswissenschaft und Sternenerkenntnis.},
+  shorttitle = {GA 228},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {228},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga229,
+  title = {Das Miterleben des Jahreslaufes in vier kosmischen Imaginationen.},
+  shorttitle = {GA 229},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {229},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga230,
+  title = {Der Mensch als Zusammenklang des schaffenden, bildenden und gestaltenden Weltenwortes.},
+  shorttitle = {GA 230},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {230},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga231,
+  title = {Der übersinnliche Mensch, anthroposophisch erfaßt.},
+  shorttitle = {GA 231},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {231},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga232,
+  title = {Mysteriengestaltungen.},
+  shorttitle = {GA 232},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {232},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga233,
+  title = {Die Weltgeschichte in anthroposophischer Beleuchtung und als Grundlage der Erkenntnis des Menschengeistes.},
+  shorttitle = {GA 233},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {233},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga233a,
+  title = {Mysterienstätten des Mittelalters. Rosenkreuzertum und modernes Einweihungsprinzip. Das Osterfest als ein Stück Mysteriengeschichte der Menschheit.},
+  shorttitle = {GA 233a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {233a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga234,
+  title = {Anthroposophie. Eine Zusammenfassung nach einundzwanzig Jahren.},
+  shorttitle = {GA 234},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {234},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga235,
+  title = {Esoterische Betrachtungen karmischer Zusammenhänge, in 6 Bdn., Bd. 1},
+  shorttitle = {GA 235},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {235},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga236,
+  title = {Esoterische Betrachtungen karmischer Zusammenhänge, in 6 Bdn., Bd. 2},
+  shorttitle = {GA 236},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {236},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga237,
+  title = {Esoterische Betrachtungen karmischer Zusammenhänge, in 6 Bdn., Bd. 3, Die karmischen Zusammenhänge der anthroposophischen Bewegung.},
+  shorttitle = {GA 237},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {237},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga238,
+  title = {Esoterische Betrachtungen karmischer Zusammenhänge, in 6 Bdn., Bd. 4, Das geistige Leben der Gegenwart im Zusammenhang mit der anthroposophischen Bewegung.},
+  shorttitle = {GA 238},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {238},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga239,
+  title = {Esoterische Betrachtungen karmischer Zusammenhänge, in 6 Bdn., Bd. 5},
+  shorttitle = {GA 239},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {239},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga240,
+  title = {Esoterische Betrachtungen karmischer Zusammenhänge, in 6 Bdn., Bd. 6},
+  shorttitle = {GA 240},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {240},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga243,
+  title = {Das Initiaten-Bewußtsein. Die wahren und die falschen Wege der geistigen Forschung.},
+  shorttitle = {GA 243},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {243},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga244,
+  title = {Fragenbeantwortungen und Interviews},
+  shorttitle = {GA 244},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {244},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga245,
+  title = {Anweisungen für eine esoterische Schulung (Sonderausgabe)},
+  shorttitle = {GA 245},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {245},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga250,
+  title = {Zur Geschichte der Deutschen Sektion der Theosophischen Gesellschaft 1902 – 1913.},
+  shorttitle = {GA 250},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {250},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga251,
+  title = {Zur Geschichte der Anthroposophischen Gesellschaft 1913 – 1922.},
+  shorttitle = {GA 251},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {251},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga252,
+  title = {Zur Geschichte des Johannesbau-Vereins und des Goetheanum-Vereins 1911 – 1924},
+  shorttitle = {GA 252},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {252},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga253,
+  title = {Probleme des Zusammenlebens in der Anthroposophischen Gesellschaft.},
+  shorttitle = {GA 253},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {253},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga254,
+  title = {Die okkulte Bewegung im neunzehnten Jahrhundert und ihre Beziehung zur Weltkultur.},
+  shorttitle = {GA 254},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {254},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga255b,
+  title = {Die Anthroposophie und ihre Gegner 1919 – 1921},
+  shorttitle = {GA 255b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {255b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga257,
+  title = {Anthroposophische Gemeinschaftsbildung.},
+  shorttitle = {GA 257},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {257},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga258,
+  title = {Die Geschichte und die Bedingungen der anthroposophischen Bewegung im Verhältnis zur Anthroposophischen Gesellschaft.},
+  shorttitle = {GA 258},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {258},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga259,
+  title = {Das Schicksalsjahr 1923 in der Geschichte der Anthroposophischen Gesellschaft.},
+  shorttitle = {GA 259},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {259},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga260,
+  title = {Die Weihnachtstagung zur Begründung der Allgemeinen Anthroposophischen Gesellschaft.},
+  shorttitle = {GA 260},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {260},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga260a,
+  title = {Die Konstitution der Allgemeinen Anthroposophischen Gesellschaft und der Freien Hochschule für Geisteswissenschaft. Der Wiederaufbau des Goetheanum.},
+  shorttitle = {GA 260a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {260a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga261,
+  title = {Unsere Toten.},
+  shorttitle = {GA 261},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {261},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga262,
+  title = {Rudolf Steiner / Marie Steiner-von Sivers: Briefwechsel und Dokumente 1901 – 1925},
+  shorttitle = {GA 262},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {262},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga263/1,
+  title = {Rudolf Steiner / Edith Maryon: Briefwechsel},
+  shorttitle = {GA 263/1},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {263/1},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga264,
+  title = {Zur Geschichte und aus den Inhalten der ersten Abteilung der Esoterischen Schule von 1904 bis 1914. Briefe, Rundbriefe, Dokumente, Vorträge.},
+  shorttitle = {GA 264},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {264},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga265,
+  title = {Zur Geschichte und aus den Inhalten der erkenntniskultischen Abteilung der Esoterischen Schule 1904 - 1914.},
+  shorttitle = {GA 265},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {265},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga266/1,
+  title = {Aus den Inhalten der esoterischen Stunden, Band I, 1904 - 1909},
+  shorttitle = {GA 266/1},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {266/1},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga266/2,
+  title = {Aus den Inhalten der esoterischen Stunden, Band II: 1910 – 1912},
+  shorttitle = {GA 266/2},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {266/2},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga266/3,
+  title = {Aus den Inhalten der esoterischen Stunden, Band III: 1913 und 1914; 1920 – 1923},
+  shorttitle = {GA 266/3},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {266/3},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga267,
+  title = {Seelenübungen mit Wort- und Sinnbild- Meditationen zur methodischen Entwicklung höherer Erkenntniskräfte. 1904 - 1924.},
+  shorttitle = {GA 267},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {267},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga268,
+  title = {Mantrische Sprüche. Seelenübungen II. 1903 - 1925.},
+  shorttitle = {GA 268},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {268},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga269,
+  title = {Ritualtexte für die Feiern des freien christlichen Religionsunterrichtes. Das Spruchgut für Lehrer und Schüler der Waldorfschule.},
+  shorttitle = {GA 269},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {269},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga270/1,
+  title = {Esoterische Unterweisungen für die erste Klasse der Freien Hochschule für Geisteswissenschaft am Goetheanum, Erster Band. 1. - 9. Stunde},
+  shorttitle = {GA 270/1},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {270/1},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga270/2,
+  title = {Esoterische Unterweisungen für die erste Klasse der Freien Hochschule für Geisteswissenschaft am Goetheanum, Zweiter Band 10. - 19. Stunde},
+  shorttitle = {GA 270/2},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {270/2},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga270/3,
+  title = {Esoterische Unterweisungen für die erste Klasse der Freien Hochschule für Geisteswissenschaft am Goetheanum, Dritter Band.},
+  shorttitle = {GA 270/3},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {270/3},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga270/4,
+  title = {Esoterische Unterweisungen für die erste Klasse der Freien Hochschule für Geisteswissenschaft am Goetheanum, Vierter Band. Wandtafelzeichnungen},
+  shorttitle = {GA 270/4},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {270/4},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga271,
+  title = {Kunst und Kunsterkenntnis. Grundlagen einer neuen Ästhetik.},
+  shorttitle = {GA 271},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {271},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga272,
+  title = {Geisteswissenschaftliche Erläuterungen zu Goethes «Faust», Band I: Faust, der strebende Mensch.},
+  shorttitle = {GA 272},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {272},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga273,
+  title = {Geisteswissenschaftliche Erläuterungen zu Goethes «Faust», Band II: Das Faust-Problem.},
+  shorttitle = {GA 273},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {273},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga274,
+  title = {Ansprachen zu den Weihnachtspielen aus altem Volkstum.},
+  shorttitle = {GA 274},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {274},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga275,
+  title = {Kunst im Lichte der Mysterienweisheit.},
+  shorttitle = {GA 275},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {275},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga276,
+  title = {Das Künstlerische in seiner Weltmission.},
+  shorttitle = {GA 276},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {276},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga277,
+  title = {Eurythmie. Die Offenbarung der sprechenden Seele.},
+  shorttitle = {GA 277},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {277},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga277a,
+  title = {Die Entstehung und Entwickelung der Eurythmie.},
+  shorttitle = {GA 277a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {277a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga278,
+  title = {Eurythmie als sichtbarer Gesang.},
+  shorttitle = {GA 278},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {278},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga279,
+  title = {Eurythmie als sichtbare Sprache.},
+  shorttitle = {GA 279},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {279},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga280,
+  title = {Methodik und Wesen der Sprachgestaltung.},
+  shorttitle = {GA 280},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {280},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga281,
+  title = {Die Kunst der Rezitation und Deklamation.},
+  shorttitle = {GA 281},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {281},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga282,
+  title = {Sprachgestaltung und Dramatische Kunst.},
+  shorttitle = {GA 282},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {282},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga283,
+  title = {Das Wesen des Musikalischen und das Tonerlebnis im Menschen.},
+  shorttitle = {GA 283},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {283},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga284,
+  title = {Bilder okkulter Siegel und Säulen. Der Münchner Kongress Pfingsten 1907 und seine Auswirkungen.},
+  shorttitle = {GA 284},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {284},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga286,
+  title = {Wege zu einem neuen Baustil. 'Und der Bau wird Mensch'.},
+  shorttitle = {GA 286},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {286},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga287,
+  title = {Der Dornacher Bau als Wahrzeichen geschichtlichen Werdens u. künsterischer Umwandlungsimpulse.},
+  shorttitle = {GA 287},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {287},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga288,
+  title = {Architektur, Plastik und Malerei des ersten Goetheanum.},
+  shorttitle = {GA 288},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {288},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga289,
+  title = {Der Baugedanke des Goetheanum},
+  shorttitle = {GA 289},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {289},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga291,
+  title = {Das Wesen der Farben.},
+  shorttitle = {GA 291},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {291},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga291a,
+  title = {Farbenerkenntnis. Ergänzungen zu dem Band «Das Wesen der Farben».},
+  shorttitle = {GA 291a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {291a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga292,
+  title = {Kunstgeschichte als Abbild innerer geistiger Impulse.},
+  shorttitle = {GA 292},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {292},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga293,
+  title = {Allgemeine Menschenkunde als Grundlage der Pädagogik.},
+  shorttitle = {GA 293},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {293},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga294,
+  title = {Erziehungskunst. Methodisch-Didaktisches.},
+  shorttitle = {GA 294},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {294},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga295,
+  title = {Erziehungskunst. Seminarbesprechungen und Lehrplanvorträge.},
+  shorttitle = {GA 295},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {295},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga296,
+  title = {Die Erziehungsfrage als soziale Frage.},
+  shorttitle = {GA 296},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {296},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga297,
+  title = {Idee und Praxis der Waldorfschule.},
+  shorttitle = {GA 297},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {297},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga297a,
+  title = {Erziehung zum Leben. Selbsterziehung und pädagogische Praxis.},
+  shorttitle = {GA 297a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {297a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga298,
+  title = {Rudolf Steiner in der Waldorfschule.},
+  shorttitle = {GA 298},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {298},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga299,
+  title = {Geisteswissenschaftliche Sprachbetrachtungen},
+  shorttitle = {GA 299},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {299},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga300a,
+  title = {Konferenzen mit den Lehrern der Freien Waldorfschule in Stuttgart 1919 bis 1924, Band 1},
+  shorttitle = {GA 300a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {300a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga300b,
+  title = {Konferenzen mit den Lehrern der Freien Waldorfschule in Stuttgart 1919 bis 1924, Band 2},
+  shorttitle = {GA 300b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {300b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga300c,
+  title = {Konferenzen mit den Lehrern der Freien Waldorfschule in Stuttgart 1919 bis 1924, Band 3},
+  shorttitle = {GA 300c},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {300c},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga301,
+  title = {Die Erneuerung der pädagogisch-didaktischen Kunst durch Geisteswissenschaft.},
+  shorttitle = {GA 301},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {301},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga302,
+  title = {Menschenerkenntnis und Unterrichtsgestaltung.},
+  shorttitle = {GA 302},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {302},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga302a,
+  title = {Erziehung und Unterricht aus Menschenerkenntnis.},
+  shorttitle = {GA 302a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {302a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga303,
+  title = {Die gesunde Entwickelung des Menschenwesens.},
+  shorttitle = {GA 303},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {303},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga304,
+  title = {Erziehungsmethoden und Unterrichtsmethoden auf anthroposophischer Grundlage.},
+  shorttitle = {GA 304},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {304},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga304a,
+  title = {Anthroposophische Menschenkunde und Pädagogik.},
+  shorttitle = {GA 304a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {304a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga305,
+  title = {Die geistig-seelischen Grundkräfte der Erziehungskunst. Spirituelle Werte in Erziehung und sozialem Leben.},
+  shorttitle = {GA 305},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {305},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga306,
+  title = {Die pädagogische Praxis vom Gesichtspunkte geisteswissenschaftlicher Menschenerkenntnis. Die Erziehung des Kindes und jüngerer Menschen.},
+  shorttitle = {GA 306},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {306},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga307,
+  title = {Gegenwärtiges Geistesleben und Erziehung.},
+  shorttitle = {GA 307},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {307},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga308,
+  title = {Die Methodik des Lehrens und die Lebensbedingungen des Erziehens.},
+  shorttitle = {GA 308},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {308},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga309,
+  title = {Anthroposophische Pädagogik und ihre Voraussetzungen.},
+  shorttitle = {GA 309},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {309},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga310,
+  title = {Der pädagogische Wert der Menschenerkenntnis und der Kulturwert der Pädagogik.},
+  shorttitle = {GA 310},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {310},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga311,
+  title = {Die Kunst des Erziehens aus dem Erfassen der Menschenwesenheit.},
+  shorttitle = {GA 311},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {311},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga312,
+  title = {Geisteswissenschaft und Medizin.},
+  shorttitle = {GA 312},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {312},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga313,
+  title = {Geisteswissenschaftliche Gesichtspunkte zur Therapie.},
+  shorttitle = {GA 313},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {313},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga314,
+  title = {Physiologisch-Therapeutisches auf Grundlage der Geisteswissenschaft.},
+  shorttitle = {GA 314},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {314},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga315,
+  title = {Heileurythmie.},
+  shorttitle = {GA 315},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {315},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga316,
+  title = {Meditative Betrachtungen und Anleitungen zur Vertiefung der Heilkunst.},
+  shorttitle = {GA 316},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {316},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga317,
+  title = {Heilpädagogischer Kurs.},
+  shorttitle = {GA 317},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {317},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga318,
+  title = {Das Zusammenwirken von Ärzten und Seelsorgern.},
+  shorttitle = {GA 318},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {318},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga319,
+  title = {Anthroposophische Menschenerkenntnis und Medizin.},
+  shorttitle = {GA 319},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {319},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga320,
+  title = {Geisteswissenschaftliche Impulse zur Entwickelung der Physik, I. Erster naturwissenschaftlicher Kurs: Licht, Farbe, Ton – Masse, Elektrizität, Magnetismus.},
+  shorttitle = {GA 320},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {320},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga321,
+  title = {Geisteswissenschaftliche Impulse zur Entwickelung der Physik, II. Zweiter naturwissenschaftlicher Kurs: Die Wärme auf der Grenze positiver und negativer Materialität.},
+  shorttitle = {GA 321},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {321},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga322,
+  title = {Grenzen der Naturerkenntnis.},
+  shorttitle = {GA 322},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {322},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga323,
+  title = {Das Verhältnis der verschiedenen naturwissenschaftlichen Gebiete zur Astronomie. Dritter naturwissenschaftlicher Kurs: Himmelskunde in Beziehung zum Menschen und zur Menschenkunde.},
+  shorttitle = {GA 323},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {323},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga324,
+  title = {Naturbeobachtung, Mathematik, wissenschaftliches Experiment und Erkenntnisergebnisse vom Gesichtspunkte der Anthroposophie.},
+  shorttitle = {GA 324},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {324},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga324a,
+  title = {Die vierte Dimension. Mathematik und Wirklichkeit.},
+  shorttitle = {GA 324a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {324a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga325,
+  title = {Die Naturwissenschaft und die weltgeschichtliche Entwickelung der Menschheit seit dem Altertum.},
+  shorttitle = {GA 325},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {325},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga326,
+  title = {Der Entstehungsmoment der Naturwissenschaft in der Weltgeschichte und ihre seitherige Entwickelung.},
+  shorttitle = {GA 326},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {326},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga327,
+  title = {Geisteswissenschaftliche Grundlagen zum Gedeihen der Landwirtschaft. Landwirtschaftlicher Kursus.},
+  shorttitle = {GA 327},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {327},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga328,
+  title = {Die soziale Frage.},
+  shorttitle = {GA 328},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {328},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga329,
+  title = {Die Befreiung des Menschenwesens als Grundlage für eine soziale Neugestaltung.},
+  shorttitle = {GA 329},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {329},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga330,
+  title = {Neugestaltung des sozialen Organismus.},
+  shorttitle = {GA 330},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {330},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga331,
+  title = {Betriebsräte und Sozialisierung.},
+  shorttitle = {GA 331},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {331},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga331a,
+  title = {Arbeiterräte im Sinne der Dreigliederung des sozialen Organismus.},
+  shorttitle = {GA 331a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {331a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga331b,
+  title = {Kulturräte und Sozialisierung. Räteorganisation im Sinne der Dreigliederung des sozialen Organismus.},
+  shorttitle = {GA 331b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {331b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga332a,
+  title = {Soziale Zukunft.},
+  shorttitle = {GA 332a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {332a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga332b,
+  title = {Zu sozialen und wirtschaftlichen Fragen der Gegenwart.},
+  shorttitle = {GA 332b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {332b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga333,
+  title = {Gedankenfreiheit und soziale Kräfte.},
+  shorttitle = {GA 333},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {333},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga334,
+  title = {Vom Einheitsstaat zum dreigliedrigen sozialen Organismus.},
+  shorttitle = {GA 334},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {334},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga335,
+  title = {Die Krisis der Gegenwart und der Weg zu gesundem Denken.},
+  shorttitle = {GA 335},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {335},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga336,
+  title = {Die großen Fragen der Zeit und die anthroposophische Geist-Erkenntnis.},
+  shorttitle = {GA 336},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {336},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga337a,
+  title = {Soziale Ideen – Soziale Wirklichkeit – Soziale Praxis. Band I: Frage- und Studienabende des Bundes für Dreigliederung des sozialen Organismus in Stuttgart.},
+  shorttitle = {GA 337a},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {337a},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga337b,
+  title = {Soziale Ideen – Soziale Wirklichkeit – Soziale Praxis. Band II: Diskussionsabende des Schweizer Bundes für Dreigliederung des sozialen Organismus.},
+  shorttitle = {GA 337b},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {337b},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga338,
+  title = {Wie wirkt man für den Impuls der Dreigliederung des sozialen Organismus?},
+  shorttitle = {GA 338},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {338},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga339,
+  title = {Anthroposophie, soziale Dreigliederung und Redekunst.},
+  shorttitle = {GA 339},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {339},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga340,
+  title = {Nationalökonomischer Kurs. Aufgaben einer neuen Wirtschaftswissenschaft, Band I.},
+  shorttitle = {GA 340},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {340},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga341,
+  title = {Nationalökonomisches Seminar. Aufgaben einer neuen Wirtschaftswissenschaft, Band II.},
+  shorttitle = {GA 341},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {341},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga342,
+  title = {Vorträge und Kurse über christlich-religiöses Wirken, I. Anthroposophische Grundlagen für ein erneuertes christlich-religiöses Wirken.},
+  shorttitle = {GA 342},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {342},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga343,
+  title = {Vorträge und Kurse über christlich-religiöses Wirken, II. Spirituelles Erkennen – Religiöses Empfinden – Kultisches Handeln.},
+  shorttitle = {GA 343},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {343},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga344,
+  title = {Vorträge und Kurse über christlich-religiöses Wirken, III. Vorträge bei der Begründung der Christengemeinschaft.},
+  shorttitle = {GA 344},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {344},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga345,
+  title = {Vorträge und Kurse über christlich-religiöses Wirken, IV. Vom Wesen des wirkenden Wortes.},
+  shorttitle = {GA 345},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {345},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga346,
+  title = {Vorträge und Kurse über christlich-religiöses Wirken, V. Apokalypse und Priesterwirken.},
+  shorttitle = {GA 346},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {346},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga347,
+  title = {Die Erkenntnis des Menschenwesens nach Leib, Seele und Geist. Über frühe Erdzustände.},
+  shorttitle = {GA 347},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {347},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga348,
+  title = {Über Gesundheit und Krankheit. Grundlagen einer geisteswissenschaftlichen Sinneslehre.},
+  shorttitle = {GA 348},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {348},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga349,
+  title = {Vom Leben des Menschen und der Erde. Über das Wesen des Christentums.},
+  shorttitle = {GA 349},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {349},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga350,
+  title = {Rhythmen im Kosmos und im Menschenwesen. Wie kommt man zum Schauen der geistigen Welt?},
+  shorttitle = {GA 350},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {350},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga351,
+  title = {Mensch und Welt. Das Wirken des Geistes in der Natur. Über das Wesen der Bienen.},
+  shorttitle = {GA 351},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {351},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga352,
+  title = {Natur und Mensch in geisteswissenschaftlicher Betrachtung.},
+  shorttitle = {GA 352},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {352},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga353,
+  title = {Die Geschichte der Menschheit und die Weltanschauungen der Kulturvölker.},
+  shorttitle = {GA 353},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {353},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
+
+@book{steiner_ga354,
+  title = {Die Schöpfung der Welt und des Menschen},
+  shorttitle = {GA 354},
+  author = {Steiner, Rudolf},
+  series = {Gesamtausgabe},
+  volume = {354},
+  publisher = {Rudolf Steiner Verlag},
+  address = {Dornach}
+}
